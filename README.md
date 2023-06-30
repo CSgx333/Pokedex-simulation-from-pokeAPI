@@ -13,7 +13,9 @@ The black screen shows the element of the Pokemon, with three gray buttons chang
 <p/><br>
   
 <p align="center">
-Changing Pokemon in the screen can search or press the black button to next or previou.
+  <div align="padding: 10px">
+    Changing Pokemon in the screen can search or press the black button to next or previou.
+  </div>
   <img src="src/assets/img/pokedex-2.jpg" width="500" height="400">
 <p/><br>
   
