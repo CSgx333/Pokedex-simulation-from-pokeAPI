@@ -16,3 +16,13 @@ Changing Pokemon in the screen can search or press the black button to next or p
 <p align="center">
   <img src="src/assets/img/pokedex-2.jpg">
 <p/>
+  
+A screen showing the height and weight of Pokemon.
+<p align="center">
+  <img src="src/assets/img/pokedex-3.jpg">
+<p/>
+
+A screen showing the Pokemon's HP, ATK, and DEF stats.
+<p align="center">
+  <img src="src/assets/img/pokedex-4.jpg">
+<p/>
