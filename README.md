@@ -13,18 +13,16 @@ The black screen shows the element of the Pokemon, with three gray buttons chang
 <p/><br>
   
 <p align="center">
-  <div align="padding: 10px">
-    Changing Pokemon in the screen can search or press the black button to next or previou.
-  </div>
+Changing Pokemon in the screen can search or press the black button to next or previou.
   <img src="src/assets/img/pokedex-2.jpg" width="500" height="400">
 <p/><br>
-  
-A screen showing the height and weight of Pokemon.
+
 <p align="center">
+A screen showing the height and weight of Pokemon.
   <img src="src/assets/img/pokedex-3.jpg" width="500" height="400">
 <p/><br>
 
-A screen showing the Pokemon's HP, ATK, and DEF stats.
 <p align="center">
+A screen showing the Pokemon's HP, ATK, and DEF stats.
   <img src="src/assets/img/pokedex-4.jpg" width="500" height="400">
 <p/>
